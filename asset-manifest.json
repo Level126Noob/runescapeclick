@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/runescapeclick/static/css/main.b100e6da.chunk.css",
+    "main.js": "/runescapeclick/static/js/main.86e51d0f.chunk.js",
+    "main.js.map": "/runescapeclick/static/js/main.86e51d0f.chunk.js.map",
+    "runtime-main.js": "/runescapeclick/static/js/runtime-main.e1c65b02.js",
+    "runtime-main.js.map": "/runescapeclick/static/js/runtime-main.e1c65b02.js.map",
+    "static/js/2.08c861bd.chunk.js": "/runescapeclick/static/js/2.08c861bd.chunk.js",
+    "static/js/2.08c861bd.chunk.js.map": "/runescapeclick/static/js/2.08c861bd.chunk.js.map",
+    "index.html": "/runescapeclick/index.html",
+    "precache-manifest.b2a0713a062890933fa439833114915b.js": "/runescapeclick/precache-manifest.b2a0713a062890933fa439833114915b.js",
+    "service-worker.js": "/runescapeclick/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/runescapeclick/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/runescapeclick/static/media/logo.25bf045c.svg"
+  }
+}
